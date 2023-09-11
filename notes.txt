@@ -29,5 +29,5 @@ State/Region:England
 City:London
 Latitude:51.5085 (51° 30′ 30.71″ N)
 Longitude:-0.1257 (0° 7′ 32.66″ W)
-https://www.heremagazine.com/articles/london-punk-venues
+https://www.heremagazine.com/articles/london-punk-venues.
 
